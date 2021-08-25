@@ -1,0 +1,11 @@
+lets make a list
+* VS code
+* commit
+   1. good summary
+   1. good detailed
+* push
+
+make a second list
+3. red
+2. blue
+1. green
